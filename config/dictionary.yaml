@@ -4,62 +4,122 @@ name: string
 age: int
 gender: string
 
-# Локация
-location.city: string
-location.country: string
-location.timezone: string
+# 1. ДЕТСТВО И СЕМЬЯ
+family.childhood.structure: string
+family.childhood.members: array
+family.childhood.atmosphere: string
+family.parents.relationship: string
+family.parents.influence: string
+family.siblings.count: int
+family.siblings.dynamics: string
+family.early_memories: array
+family.upbringing_style: string
 
-# Профессия
-role.current: string
-role.experience_years: int
-role.level: string
-company.name: string
-company.position: string
-company.industry: string
+# 2. ОБРАЗОВАНИЕ И РОСТ  
+education.levels: array
+education.key_experiences: array
+education.influential_teachers: array
+education.learning_style: string
+personal_growth.formative_periods: array
+personal_growth.key_insights: array
+personal_growth.personality_changes: array
+intellectual.interests: array
+intellectual.achievements: array
 
-# Образование
-education: array
-certifications: array
-skills: array
-languages: array
+# 3. КАРЬЕРА И РАБОТА
+career.current_role: string
+career.experience_years: int
+career.path: array
+career.achievements: array
+career.skills: array
+career.work_values: array
+career.leadership_experience: array
+profession.expertise: array
+profession.projects: array
 
-# Контакты
-social.email: string
-social.phone: string
-social.telegram: string
-social.linkedin: string
-social.github: string
-social.website: string
+# 4. ОТНОШЕНИЯ
+relationships.social_circle: string
+relationships.communication_style: string
+relationships.conflict_resolution: string
+relationships.friendship_approach: array
+relationships.romantic.status: string
+relationships.romantic.values: array
+relationships.family_current: string
+relationships.networking: string
 
-# Личность
+# 5. ЦЕННОСТИ
+values.core_beliefs: array
+values.life_principles: array
+values.moral_compass: array
+values.spiritual_views: string
+values.political_views: string
+values.social_causes: array
+worldview.philosophy: string
+worldview.meaning_of_life: string
+
+# 6. УВЛЕЧЕНИЯ
+hobbies.current: array
+hobbies.creative_pursuits: array
+hobbies.sports_activities: array
+interests.intellectual: array
+interests.cultural: array
+creative.skills: array
+creative.projects: array
+leisure.preferences: array
+
+# 7. ЗДОРОВЬЕ
+health.physical_condition: string
+health.mental_wellbeing: string
+health.lifestyle_habits: array
+health.fitness_routine: string
+health.diet_preferences: array
+health.stress_management: array
+health.sleep_patterns: string
+wellness.practices: array
+
+# 8. ВЫЗОВЫ
+challenges.major_difficulties: array
+challenges.coping_strategies: array
+challenges.support_systems: array
+challenges.lessons_learned: array
+resilience.examples: array
+resilience.growth_mindset: string
+obstacles.overcome: array
+failures.recovery: array
+
+# 9. ДОСТИЖЕНИЯ
+achievements.personal: array
+achievements.professional: array
+achievements.academic: array
+achievements.creative: array
+accomplishments.proud_moments: array
+recognition.awards: array
+success.defining_moments: array
+impact.on_others: array
+
+# 10. БУДУЩЕЕ
+future.short_term_goals: array
+future.long_term_vision: string
+future.career_aspirations: array
+future.personal_goals: array
+future.dream_scenarios: array
+aspirations.legacy: string
+planning.strategies: array
+motivation.driving_forces: array
+
+# Контакты и локация
+location.current.city: string
+location.current.country: string
+contact.email: string
+contact.phone: string
+social.networks: array
+
+# Личностные характеристики
 personality.type: string
 personality.traits: array
-interests: array
-hobbies: array
-values: array
+personality.strengths: array
+personality.areas_for_growth: array
+character.values_demonstration: array
 
-# Карьера
-career.goals: array
-career.next_role: string
-career.relocation_willingness: string
-work_preferences.remote: string
-work_preferences.team_size: string
-
-# Достижения
-achievements: array
-projects: array
-
-# Семья
-family.marital_status: string
-family.children_count: int
-
-# Здоровье и спорт
-health.fitness_level: string
-sports: array
-
-# Творчество
-creative.skills: array
-music.instruments: array
-
-# Теги
+# Динамические теги
 tags: object

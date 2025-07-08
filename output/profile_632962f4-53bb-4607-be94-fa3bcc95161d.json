@@ -1,0 +1,260 @@
+{
+  "_metadata": {
+    "processing_info": {
+      "extraction_method": "contextual_answers",
+      "schema_version": "1.0",
+      "text_length": 5589
+    },
+    "source_interview": {
+      "completion_rate": 100,
+      "interview_id": "632962f4-53bb-4607-be94-fa3bcc95161d",
+      "timestamp": "2025-07-09T02:25:59+10:00",
+      "total_answers": 6,
+      "total_blocks": 3,
+      "total_questions": 6
+    }
+  },
+  "achievements": {
+    "academic": [
+      {
+        "achievement": "усвоение системного мышления"
+      },
+      {
+        "achievement": "работа в команде"
+      },
+      {
+        "achievement": "дипломный проект по автоматической системе полива"
+      }
+    ],
+    "creative": null,
+    "personal": null,
+    "professional": null
+  },
+  "age": null,
+  "aspirations": {
+    "legacy": null
+  },
+  "career": {
+    "achievements": null,
+    "current_role": null,
+    "experience_years": null,
+    "leadership_experience": null,
+    "path": null,
+    "skills": null,
+    "work_values": [
+      "упорство",
+      "честность",
+      "лидерство",
+      "открытое общение",
+      "постоянное обучение",
+      "инновации"
+    ]
+  },
+  "challenges": {
+    "coping_strategies": null,
+    "lessons_learned": null,
+    "major_difficulties": null,
+    "support_systems": null
+  },
+  "character": {
+    "values_demonstration": null
+  },
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "creative": {
+    "projects": null,
+    "skills": null
+  },
+  "education": {
+    "influential_teachers": [
+      {
+        "name": "Иван Петрович",
+        "subject": "физика"
+      }
+    ],
+    "key_experiences": [
+      {
+        "experience": "университетские годы"
+      },
+      {
+        "experience": "дипломный проект по автоматической системе полива"
+      }
+    ],
+    "learning_style": null,
+    "levels": null
+  },
+  "failures": {
+    "recovery": null
+  },
+  "family": {
+    "childhood": {
+      "atmosphere": "дружная и любящая",
+      "members": [
+        {
+          "relation": "мама"
+        },
+        {
+          "relation": "папа"
+        },
+        {
+          "relation": "бабушка"
+        },
+        {
+          "relation": "я"
+        }
+      ],
+      "structure": null
+    },
+    "early_memories": null,
+    "parents": {
+      "influence": "много работали, чтобы обеспечить, но всегда находили время для меня",
+      "relationship": null
+    },
+    "siblings": {
+      "count": 0,
+      "dynamics": null
+    },
+    "upbringing_style": "теплый и поддерживающий"
+  },
+  "future": {
+    "career_aspirations": [
+      {
+        "goal": "стать лидером, который вдохновляет команду"
+      },
+      {
+        "goal": "способствовать открытому общению"
+      },
+      {
+        "goal": "постоянно учиться"
+      },
+      {
+        "goal": "внедрять инновационные подходы"
+      },
+      {
+        "goal": "решать сложные задачи"
+      },
+      {
+        "goal": "развивать компанию"
+      }
+    ],
+    "dream_scenarios": null,
+    "long_term_vision": null,
+    "personal_goals": null,
+    "short_term_goals": null
+  },
+  "gender": null,
+  "health": {
+    "diet_preferences": null,
+    "fitness_routine": null,
+    "lifestyle_habits": null,
+    "mental_wellbeing": null,
+    "physical_condition": null,
+    "sleep_patterns": null,
+    "stress_management": null
+  },
+  "hobbies": {
+    "creative_pursuits": null,
+    "current": null,
+    "sports_activities": null
+  },
+  "intellectual": {
+    "achievements": null,
+    "interests": null
+  },
+  "location": {
+    "current": {
+      "city": null,
+      "country": null
+    }
+  },
+  "name": null,
+  "obstacles": {
+    "overcome": null
+  },
+  "personal_growth": {
+    "formative_periods": [
+      {
+        "period": "университетские годы"
+      }
+    ],
+    "key_insights": null,
+    "personality_changes": null
+  },
+  "personality": {
+    "areas_for_growth": null,
+    "strengths": [
+      "самостоятельность",
+      "упорство"
+    ],
+    "traits": [
+      "самостоятельность",
+      "упорство"
+    ],
+    "type": null
+  },
+  "planning": {
+    "strategies": null
+  },
+  "recognition": {
+    "awards": null
+  },
+  "relationships": {
+    "communication_style": null,
+    "conflict_resolution": null,
+    "family_current": null,
+    "friendship_approach": null,
+    "networking": null,
+    "romantic": {
+      "status": null,
+      "values": null
+    },
+    "social_circle": null
+  },
+  "resilience": {
+    "examples": null,
+    "growth_mindset": null
+  },
+  "social": {
+    "networks": null
+  },
+  "success": {
+    "defining_moments": [
+      {
+        "moment": "дипломный проект по автоматической системе полива"
+      }
+    ]
+  },
+  "tags": {},
+  "values": {
+    "core_beliefs": [
+      "семья",
+      "честность",
+      "упорство",
+      "постоянное развитие"
+    ],
+    "life_principles": [
+      "семья",
+      "честность",
+      "упорство",
+      "постоянное развитие"
+    ],
+    "moral_compass": [
+      "семья",
+      "честность",
+      "упорство",
+      "постоянное развитие"
+    ],
+    "political_views": null,
+    "social_causes": null,
+    "spiritual_views": null
+  },
+  "wellness": {
+    "practices": null
+  },
+  "worldview": {
+    "meaning_of_life": null,
+    "philosophy": null
+  }
+}
