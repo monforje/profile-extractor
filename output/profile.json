@@ -1,0 +1,86 @@
+{
+  "achievements": [],
+  "age": null,
+  "career": {
+    "goals": [],
+    "next_role": null,
+    "relocation_willingness": null
+  },
+  "company": {
+    "industry": null,
+    "name": null,
+    "position": null
+  },
+  "creative": {
+    "skills": []
+  },
+  "education": [
+    {
+      "degree": null,
+      "university": "ДВФУ",
+      "year": null
+    }
+  ],
+  "family": {
+    "children_count": null,
+    "marital_status": null
+  },
+  "gender": null,
+  "health": {
+    "fitness_level": null
+  },
+  "hobbies": [
+    {
+      "name": "ДНД"
+    }
+  ],
+  "interests": [],
+  "languages": [],
+  "location": {
+    "city": "Владивосток",
+    "country": null,
+    "timezone": null
+  },
+  "music": {
+    "instruments": []
+  },
+  "name": null,
+  "personality": {
+    "traits": [],
+    "type": null
+  },
+  "projects": [],
+  "role": {
+    "current": "студент",
+    "experience_years": null,
+    "level": null
+  },
+  "skills": [
+    {
+      "level": null,
+      "name": "Go"
+    },
+    {
+      "level": null,
+      "name": "gRPC"
+    }
+  ],
+  "social": {
+    "email": null,
+    "github": null,
+    "linkedin": null,
+    "phone": null,
+    "telegram": null,
+    "website": null
+  },
+  "sports": [],
+  "tags": {
+    "dnd_character": "гоблин бард",
+    "personal_interest": "профессионально заниматься сексом в позе наездницы"
+  },
+  "values": [],
+  "work_preferences": {
+    "remote": null,
+    "team_size": null
+  }
+}

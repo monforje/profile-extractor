@@ -1,0 +1,65 @@
+# Базовая информация
+id: string
+name: string
+age: int
+gender: string
+
+# Локация
+location.city: string
+location.country: string
+location.timezone: string
+
+# Профессия
+role.current: string
+role.experience_years: int
+role.level: string
+company.name: string
+company.position: string
+company.industry: string
+
+# Образование
+education: array
+certifications: array
+skills: array
+languages: array
+
+# Контакты
+social.email: string
+social.phone: string
+social.telegram: string
+social.linkedin: string
+social.github: string
+social.website: string
+
+# Личность
+personality.type: string
+personality.traits: array
+interests: array
+hobbies: array
+values: array
+
+# Карьера
+career.goals: array
+career.next_role: string
+career.relocation_willingness: string
+work_preferences.remote: string
+work_preferences.team_size: string
+
+# Достижения
+achievements: array
+projects: array
+
+# Семья
+family.marital_status: string
+family.children_count: int
+
+# Здоровье и спорт
+health.fitness_level: string
+sports: array
+
+# Творчество
+creative.skills: array
+music.instruments: array
+
+# Теги
+tags: object
